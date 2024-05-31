@@ -33,7 +33,7 @@
         "IMAGE": {
             "description": "Put bot image url here",
             "required": true,
-             "value": "https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg"
+             "value": "<a href="https://ibb.co/pRzrVkV"><img src="https://i.ibb.co/Sdn7YZY/Untitled-1.png" alt="Untitled-1" border="0"></a>"
         },
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( public or private )",
