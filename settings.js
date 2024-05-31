@@ -48,6 +48,6 @@ AUTO_STICKER: process.env.AUTO_STICKER || true  ,
 WELCOME:  process.env.WELCOME  || true ,    
 NUMBER_212_BLOCK: process.env.NUMBER_212_BLOCK || true  ,
 FOOTER: process.env.FOOTER ||  '©ᵀʰᵉ 𝒮𝓅𝑒𝑒𝒹 𝑅𝒾𝒹𝑒𝓇 - ＭＤ',
-LOGO: process.env.LOGO || `https://ibb.co/pRzrVkV` ,
-IMAGE: process.env.IMAGE || `https://ibb.co/pRzrVkV`     
+LOGO: process.env.LOGO || `<a href="https://ibb.co/pRzrVkV"><img src="https://i.ibb.co/Sdn7YZY/Untitled-1.png" alt="Untitled-1" border="0"></a>` ,
+IMAGE: process.env.IMAGE || `<a href="https://ibb.co/pRzrVkV"><img src="https://i.ibb.co/Sdn7YZY/Untitled-1.png" alt="Untitled-1" border="0"></a>`     
 };
