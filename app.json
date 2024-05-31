@@ -1,8 +1,8 @@
 {
-  "name": "VAJIRA-MD",
-  "description": "QUEEN-DEW has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "name": "ᵀʰᵉ 𝒮𝓅𝑒𝑒𝒹 𝑅𝒾𝒹𝑒𝓇-MD",
+  "description": "𝓛𝓸𝓻𝓭 𝓜𝓪𝓱𝓲 has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "logo": "https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg",
-  "keywords": ["vajiramd", "bot", "whatsapp bot", "multi device", "vajira-md"],
+  "keywords": ["speedmd", "bot", "whatsapp bot", "multi device", "Speed-md"],
   "success_url": "/",
 
     "env": {
@@ -23,12 +23,12 @@
         "OWNER-NAME": {
             "description": "put Your name herd",
             "required": true,
-            "value": "Vajira"      
+            "value": "𝓛𝓸𝓻𝓭 𝓜𝓪𝓱𝓲"      
         },
         "OWNER_NUMBER": {
             "description": "put your number here",
             "required": true,
-            "value": "94719199757"
+            "value": "94761344821"
         },
         "IMAGE": {
             "description": "Put bot image url here",
@@ -38,7 +38,7 @@
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( public or private )",
             "required": true,
-            "value": "private"
+            "value": "public"
         }
     },
     "buildpacks": [
