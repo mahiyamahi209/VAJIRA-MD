@@ -48,6 +48,6 @@ AUTO_STICKER: process.env.AUTO_STICKER || true  ,
 WELCOME:  process.env.WELCOME  || true ,    
 NUMBER_212_BLOCK: process.env.NUMBER_212_BLOCK || true  ,
 FOOTER: process.env.FOOTER ||  '©ᵀʰᵉ 𝒮𝓅𝑒𝑒𝒹 𝑅𝒾𝒹𝑒𝓇 - ＭＤ',
-LOGO: process.env.LOGO || `https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg` ,
-IMAGE: process.env.IMAGE || `https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg`     
+LOGO: process.env.LOGO || `` ,
+IMAGE: process.env.IMAGE || ``     
 };
